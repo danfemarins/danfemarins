@@ -37,4 +37,4 @@
   <a href = "mailto:danielfelipemarins@gmail.com"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 </div>
 
-![snake gif](https://github.com/danfemarins/github/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/danfemarins/danfemarins/blob/output/github-contribution-grid-snake.svg)
