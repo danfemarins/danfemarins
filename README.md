@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Ol%C3%A1!+%F0%9F%91%80;Me+chamo+Daniel+Felipe!+%F0%9F%91%8B;Seja+Bem+vindo+%F0%9F%98%89" alt="Typing SVG";" />
+<img src="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Ol%C3%A1!+%F0%9F%91%80;Me+chamo+Daniel+Felipe!+%F0%9F%91%8B;Seja+Bem+vindo+%F0%9F%98%89";" />
 </h1>
 
 - 🔭 Hoje trabalho com Devops
