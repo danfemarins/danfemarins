@@ -3,12 +3,15 @@
 - 🔭 Hoje trabalho com Devops
 - 🌱 Estudando Python 
 - 😄 Pronouns: ele/dele
-<a href="https://github.com/danfemarins/github-readme-stats">
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=danfemarins&theme=chartreuse-dark&show_icons=true" />
-</a>
-<a href="https://github.com/danfemarins/convoychat">
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=danfemarins&layout=compact&langs_count=8&card_width=320&theme=chartreuse-dark" />
-</a>
+<div>
+  <a href="https://github.com/danfemarins/github-readme-stats">
+    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=danfemarins&theme=chartreuse-dark&show_icons=true" />
+  </a>
+  <a href="https://github.com/danfemarins/convoychat">
+    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=danfemarins&layout=compact&langs_count=8&card_width=320&theme=chartreuse-dark" />
+  </a>
+</div>
+
 <div style="display: inline_block"><br>
 <img align="center" alt="Dan-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
 <img align="center" alt="Dan-Composer" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" />
