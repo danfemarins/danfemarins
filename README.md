@@ -15,7 +15,7 @@
 </div>
 
 <div style="display: inline_block"><br>
-<img align="center" alt="Dan-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
+<img align="center" alt="Dan-AWS" height="30" width="40" src="https://www.svgrepo.com/show/376356/aws.svg" />
 <img align="center" alt="Dan-Composer" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" />
 <img align="center" alt="Dan-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="center" alt="Dan-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
